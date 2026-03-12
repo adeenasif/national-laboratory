@@ -514,7 +514,7 @@ document.addEventListener('keydown', e => {
    ============================================================ */
 bootSequence();
 
-const _sig = 'RAEN_GNITTEG_SI_YAWETAG_EHT'; // signal-trace-reverse
+const _sig = 'THE_GATEWAY_IS_GETTING_NEAR'; // signal-trace-reverse
 
 /*
  * ============================================================
@@ -529,6 +529,5 @@ const _sig = 'RAEN_GNITTEG_SI_YAWETAG_EHT'; // signal-trace-reverse
  *  The developer was last seen at:
  *  LAT 39.9231° N  LON 86.8612° W — SUBLEVEL 3
  *
- *  Trust no one. Especially not the terminal.
  * ============================================================
  */
