@@ -718,6 +718,6 @@ body {
 
 /* ── Hidden signal fragment — inspect carefully ── */
 #btnDecode::after {
-  content: "THE_PATH_TO_HIM_IS_CLEARING";
+  content: "trace: VEhFX1BBVEhfVE9fSElNX0lTX0NMRUFSSU5H";
   display: none;
 }
