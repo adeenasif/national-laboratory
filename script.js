@@ -237,6 +237,7 @@ function runDecode() {
 }
 
 /* ── ANALYZE TRANSMISSION ────────────────────────────────────── */
+const trace = 'VEhFX0dBVEVXQVlfSVNfR0VUVElOR19ORUFS';
 function runAnalyze() {
   if (btnAnalyze.disabled) return;
   lockButtons();
@@ -513,8 +514,6 @@ document.addEventListener('keydown', e => {
    INIT — Run boot sequence on DOM ready
    ============================================================ */
 bootSequence();
-
-const trace = 'VEhFX0dBVEVXQVlfSVNfR0VUVElOR19ORUFS';
 
 /*
  * ============================================================
